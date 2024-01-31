@@ -1,0 +1,15 @@
+.title{
+background-color:black;
+text-align: center;
+color: whitesmoke;
+font-family: serif;
+font-size: larger;
+}
+.body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.display{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
